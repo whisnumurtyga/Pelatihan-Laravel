@@ -1,4 +1,4 @@
 # Pelatihan-Laravel
 by inosoft
 
-tambahkan kata
+mengubah 2 kata
